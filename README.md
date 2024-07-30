@@ -1,5 +1,5 @@
 # Random-Forest-Classifier
-3rd Class exercise - training a random forest on a multi-dimensional dataset
+3rd Class project - training a random forest on a multi-dimensional dataset
 
 Random Forest is an ensemble learning method used for classification and regression tasks that builds multiple decision trees during training. It combines the predictions from each tree to improve accuracy and control overfitting. Each tree in the forest is trained on a random subset of the data and a random subset of features, promoting diversity among the trees. By averaging or voting on the predictions of individual trees, Random Forests can produce more robust and accurate predictions than a single decision tree.
 
